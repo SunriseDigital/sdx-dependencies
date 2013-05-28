@@ -1,3 +1,6 @@
 [submodule "minify"]
 	path = minify
 	url = https://github.com/mrclay/minify
+[submodule "phpunit"]
+	path = phpunit
+	url = https://github.com/sebastianbergmann/phpunit.git
