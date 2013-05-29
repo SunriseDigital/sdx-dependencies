@@ -4,3 +4,9 @@
 [submodule "phpunit"]
 	path = phpunit
 	url = https://github.com/sebastianbergmann/phpunit.git
+[submodule "spyc"]
+	path = spyc
+	url = https://github.com/mustangostang/spyc.git
+[submodule "zf1"]
+	path = zf1
+	url = https://github.com/zendframework/zf1.git
